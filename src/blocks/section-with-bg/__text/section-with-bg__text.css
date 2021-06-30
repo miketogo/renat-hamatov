@@ -1,0 +1,9 @@
+.section-with-bg__text{
+    font-family: Play;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 31px;
+    margin: 0 0 0 37px;
+    color: var(--content-color);
+}

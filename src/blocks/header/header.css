@@ -1,0 +1,7 @@
+.header{
+    font-family: Russo One;
+    color: var(--content-color);
+    position: relative;
+    height: 662px;
+    overflow: hidden;
+}

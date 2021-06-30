@@ -1,0 +1,29 @@
+.header__button{
+    margin: 24px 0 0 37px;
+    padding: 0;
+    font: inherit;
+    background-color: transparent;
+    /* отображаем курсор в виде руки при наведении; некоторые
+    считают, что необходимо оставлять стрелочный вид для кнопок */
+    cursor: pointer;
+    width: 158px;
+    height: 66px;
+    border: 3px solid var(--content-color);
+    box-sizing: border-box;
+    border-radius: 3px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+  z-index: 1;
+  /* Белый */
+  
+    color: var(--content-color);
+  }
+  
+  .header__button:focus{
+    border: 3px solid var(--content-color);
+    outline: none;
+  }
+  
