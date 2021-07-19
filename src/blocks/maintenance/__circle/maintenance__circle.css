@@ -1,0 +1,8 @@
+.maintenance__circle{
+    margin: 0 14px 0 0;
+    width: 5px;
+    min-width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: var(--content-color);
+}

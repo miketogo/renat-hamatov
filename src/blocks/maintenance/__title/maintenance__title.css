@@ -1,0 +1,9 @@
+.maintenance__title{
+    margin: 0 0 46px;
+    font-family: Russo One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;    
+    color: var(--content-color);
+}

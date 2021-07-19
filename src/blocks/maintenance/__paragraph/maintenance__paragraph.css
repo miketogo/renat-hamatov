@@ -1,0 +1,9 @@
+.maintenance__paragraph{
+    margin: 73px 0 0;
+    font-family: Play;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 101.2%;
+    color: var(--content-color);
+}

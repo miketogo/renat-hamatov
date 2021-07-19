@@ -1,0 +1,8 @@
+.buy-popup__icon-container{
+    width: 200px;
+    height: 26px;
+    display: flex;
+    margin: 48px auto;
+    justify-content: space-between;
+    z-index: 3005;
+}

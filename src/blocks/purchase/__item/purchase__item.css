@@ -1,0 +1,13 @@
+.purchase__item{
+    max-width: calc(100% - 39px - 39px);
+    width: 100%;
+    margin: 28px auto 0;
+    border: 3px solid var(--content-color);
+    box-sizing: border-box;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+}
+.purchase__item:first-of-type{
+    margin: 56px auto 0;
+}

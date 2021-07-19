@@ -1,0 +1,5 @@
+.section-with-bg__bg-image{
+    background-image: url(../../../images/section-image-3.jpg);
+    background-position: center;
+    opacity: 0.3;
+}

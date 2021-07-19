@@ -1,0 +1,9 @@
+.purchase__title{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 101.2%;
+    max-width: calc(100% - 39px - 39px);
+    color: var(--content-color);
+    margin: 0 auto;
+}

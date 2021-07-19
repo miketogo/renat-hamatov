@@ -1,0 +1,8 @@
+.maintenance__item{
+    display: flex;
+    align-items: center;
+    margin-top: 19px;
+}
+.maintenance__item:first-of-type{
+    margin: 0;
+}

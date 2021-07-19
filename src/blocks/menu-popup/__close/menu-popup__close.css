@@ -1,0 +1,21 @@
+.menu-popup__close {
+    position: absolute;
+    top: 23px;
+    right: 17px;
+    width: 40px;
+    height: 27px;
+    }
+.menu-popup__close:before, .menu-popup__close:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 33px;
+    width: 2px;
+    background-color: var(--content-color);
+    }
+.menu-popup__close:before {
+    transform: rotate(45deg);
+    }
+.menu-popup__close:after {
+    transform: rotate(-45deg);
+    }

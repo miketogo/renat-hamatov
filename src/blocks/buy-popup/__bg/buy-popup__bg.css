@@ -1,0 +1,10 @@
+.buy-popup__bg{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--bg-color);
+    opacity: 1;
+    transition: opacity ease-in-out 0.3s;
+}

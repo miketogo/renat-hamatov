@@ -1,0 +1,4 @@
+.menu-popup__icon{
+    fill: var(--content-color);
+    z-index: 1002;
+}

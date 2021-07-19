@@ -1,0 +1,13 @@
+.section-with-bg__about-image{
+    max-width: calc(100% - 39px - 39px);
+    width: 100%;
+    margin: 0 auto 30px;
+}
+
+.section-with-bg__about-image:first-of-type{
+    max-width: 100%;
+    width: 100%;
+    margin: -73px auto 30px;
+    background-color: var(--bg-color);
+}
+

@@ -1,0 +1,5 @@
+.maintenance{
+    display: flex;
+    flex-direction: column;
+    padding: 73px 0;
+}

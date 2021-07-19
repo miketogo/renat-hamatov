@@ -1,0 +1,18 @@
+.buy-popup__title{
+    margin: 5px 0 0 39px;
+    font-family: Russo One;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 101.2%;
+color: var(--content-color);
+z-index: 3005;
+position: relative;
+max-width: 80%;
+}
+.buy-popup__title:first-of-type{
+    margin: 78px 0 0 39px;
+}
+.buy-popup__title:nth-of-type(3){
+    margin: 24px 0 0 39px;
+}

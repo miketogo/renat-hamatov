@@ -3,6 +3,7 @@
     padding: 0;
     font: inherit;
     background-color: transparent;
+    position: relative;
     /* отображаем курсор в виде руки при наведении; некоторые
     считают, что необходимо оставлять стрелочный вид для кнопок */
     cursor: pointer;
@@ -17,13 +18,23 @@
 line-height: 22px;
 letter-spacing: 0.05em;
   z-index: 1;
-  /* Белый */
-  
+  align-items: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    transition: background-color ease-in-out 0.3s ;
     color: var(--content-color);
   }
   
   .header__button:focus{
     border: 3px solid var(--content-color);
-    outline: none;
+    outline: none !important;
+    -webkit-tap-highlight-color: rgba(0,0,0,0); 
   }
   
+  .header__button:active {
+    outline: none !important;
+    vertical-align: middle;
+    -webkit-tap-highlight-color: rgba(0,0,0,0); 
+    background-color: var(--section-color);
+  }

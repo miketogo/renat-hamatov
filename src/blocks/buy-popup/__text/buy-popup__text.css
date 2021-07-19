@@ -1,0 +1,13 @@
+.buy-popup__text{
+    position: relative;
+    width: calc(100% - 39px - 39px);
+    margin: 46px auto 0;
+    font-family: Play;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 101.2%;
+color: var(--content-color);
+z-index: 3005;
+
+}

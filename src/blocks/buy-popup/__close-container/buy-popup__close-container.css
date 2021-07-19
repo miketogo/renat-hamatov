@@ -1,0 +1,8 @@
+.buy-popup__close-container{
+    position: absolute;
+    top: 23px;
+    right: 17px;
+    width: 40px;
+    height: 40px;
+    z-index: 4000;
+}

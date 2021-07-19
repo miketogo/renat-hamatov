@@ -1,0 +1,9 @@
+.purchase__item-name{
+    max-width: 160px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 101.2%;
+    margin: 8px 0 0 12px;
+    color: var(--content-color);
+}

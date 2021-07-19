@@ -1,0 +1,4 @@
+.section-with-bg__slider{
+    max-width: calc(100% - 39px - 39px);
+    margin: 52px auto 0;
+}

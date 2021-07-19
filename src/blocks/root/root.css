@@ -18,3 +18,8 @@
     flex-direction: column;
     align-items: center;
 }
+
+p::selection {
+    color: #ff0; /* Цвет текста */
+    background: #000; /* Цвет фона */
+   }

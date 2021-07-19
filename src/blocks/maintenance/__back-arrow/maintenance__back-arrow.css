@@ -1,0 +1,17 @@
+.maintenance__back-arrow{
+    text-decoration: none;
+    width: 19px;
+    height: 19px;
+    position: fixed;
+    top: 23px;
+    left: 15px;
+    border-radius: 2px;
+    border-color: var(--content-color);
+    border-left: 5px solid;
+    border-bottom: 5px solid;
+    transform: rotate(45deg);
+    color: var(--content-color);
+}
+.maintenance__back-arrow:focus{
+    text-decoration: none;
+}

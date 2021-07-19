@@ -1,0 +1,7 @@
+.menu-popup__icon-container{
+    width: 70%;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    margin: 130px auto 0;
+}

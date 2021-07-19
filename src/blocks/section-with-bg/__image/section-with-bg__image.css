@@ -1,9 +1,5 @@
 .section-with-bg__image{
-    margin-top: 52px;
-    align-self: center;
-    background-image: url(../../../images/section-image.JPG);
-    height: 248px;
-    max-width: calc(100% - 80px);
+    max-width: calc(100% - 39px - 39px);
     width: 100%;
-    background-size: cover;
+    margin: 52px auto 0;
 }

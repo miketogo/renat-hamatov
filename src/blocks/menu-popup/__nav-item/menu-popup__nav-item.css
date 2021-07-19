@@ -1,0 +1,13 @@
+.menu-popup__nav-item{
+    margin-bottom: 1px;
+    height: 59px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    text-decoration: none;
+}
+.menu-popup__nav-item:first-of-type{
+    margin-top: 75px;
+}
